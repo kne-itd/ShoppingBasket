@@ -43,7 +43,7 @@ namespace DAL
                 Name = "Summer Days",
                 Price = 495,
                 Venue = "Dyrskuepladsen",
-                Date = new DateTime(2021, 7, 10, 16, 0, 0)
+                Date = new DateTime(2021, 7, 12, 16, 0, 0)
             }
            );
             return output;
