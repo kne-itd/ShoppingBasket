@@ -28,6 +28,7 @@ namespace DAL
                 Size = "L",
                 Price = 400,
                 Name = "Levis"
+
             }
             );
             output.Add(new ClothesProduct
